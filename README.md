@@ -4,6 +4,8 @@ Se trata de un archivo .ipynb, visible en Colab o Jupyter, donde usando librerí
 Si bien se sabe de la teoría y la práctica que un mismo yacimiento no produce, por ejemplo gas asociado y no asociado al mismo tiempo, en los registros de datos, ya sea por error o por algún caso específico, si se encuentran registros con estas condiciones, 
 pero del análisis se espera identificar los patrones reales. 
 
+![Registros con producción simultánea de Gas asociado y no asociado.](GasAsoc_y_Noasoc.png)
+
 # Procesamiento de datos
 
 Los datos son obtenidos del Sistema Nacional de Información de Hidrocarburos, con un total de 3,322,014 de filas, donde cada una se correspone a un registro de producción de algun pozo.
@@ -20,6 +22,8 @@ Se comprueba lo que se sabe:
 - La producción de gas no asociado va acompañada de trazas de condensado y agua,
 
 Comprobándose la pertinencia del modelo para identificar patrones de asociación. 
+
+![Registros con producción simultánea de Gas asociado y no asociado.](marketbasket.png)
 
 # Fuentes
 -Sistema de Información de Hidrocarburos https://sih.hidrocarburos.gob.mx/
