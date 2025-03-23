@@ -18,7 +18,7 @@ Esta última sábana, pasa por un onehot encoder para obtener la matriz booleana
 
 # Resultados
 Se comprueba lo que se sabe:
-- Los pozos con producción de petroleo implican la producción de agua y gas asociado,
+- Los pozos con producción de petróleo implican la producción de agua y gas asociado,
 - La producción de gas no asociado va acompañada de trazas de condensado y agua,
 
 Comprobándose la pertinencia del modelo para identificar patrones de asociación. 
